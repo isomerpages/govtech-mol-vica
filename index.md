@@ -20,7 +20,7 @@ sections:
           url: ""
   - infobar:
       title: Meet AlphabotSG
-      subtitle: GovTech’s Conversation AI
+      subtitle: Engineered by GovTech’s Conversation AI platform
       description: It's here to learn from various agency chatbots so that we can help
         you with a range of common matters and resources in one place.
   - infopic:
