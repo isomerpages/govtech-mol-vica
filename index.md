@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: AlphabotSG
-description: An Isomer site of the Singapore Government
+description: The Singapore chatbot that's always here for your questions
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,6 +29,7 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
 
