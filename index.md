@@ -12,9 +12,9 @@ sections:
         questions
       background: /images/hero-banner.png
       key_highlights:
-        - title: What it knows
-          description: Discover the agencies it learns from
-          url: ""
+        - title: Discover the agencies it learns from
+          description: ""
+          url: /knowledge-bases
   - infobar:
       title: Meet AlphabotSG
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
@@ -46,4 +46,3 @@ sections:
         nation and be able to assist citizens who prefer getting help beyond a
         website.
 ---
-
