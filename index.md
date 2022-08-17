@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: What it can do
           description: Learn more about its capabilities
-          url: ""
+          url: /capabilities
         - title: What it knows
           description: Discover the agencies it learns from
           url: ""
