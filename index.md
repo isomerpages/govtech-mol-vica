@@ -12,15 +12,12 @@ sections:
         questions
       background: /images/hero-banner.png
       key_highlights:
-        - title: What it can do
-          description: Learn more about its capabilities
-          url: /capabilities
         - title: What it knows
           description: Discover the agencies it learns from
           url: ""
   - infobar:
       title: Meet AlphabotSG
-      subtitle: Engineered by GovTech’s Conversation AI platform
+      subtitle: Engineered by VICA, GovTech’s Conversation AI platform
       description: It's here to learn from various agency chatbots so that we can help
         you with a range of common matters and resources in one place.
   - infopic:
