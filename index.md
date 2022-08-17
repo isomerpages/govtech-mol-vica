@@ -30,8 +30,8 @@ sections:
       title: It understands longer and complex messages
       description: AlphabotSG utilises a new large language model to generate the best possible reply in case no other agency chatbots can reply confidently. Depending on the nature of the question, it may give you a concise or elaborate response, chooses to not answer, or asks a follow up question.
   - infobar:
-      title: You’re invited to help others access government services more intuitively on messaging
+      title: You’re invited
       subtitle: Every effort counts
-      description: AlphabotSG may not always give you an answer you're expecting, so we'd like your help to tell us where you think is acceptable or not. Thank you for your generosity in helping Singapore to build a smarter nation and be able to assist citizens who prefer getting help beyond a website.
+      description: Description.
 .
 ---
