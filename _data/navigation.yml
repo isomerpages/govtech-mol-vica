@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About VICA
     url: https://www.tech.gov.sg/products-and-services/vica/
+  - title: Support
+    url: https://support.vica.gov.sg/
