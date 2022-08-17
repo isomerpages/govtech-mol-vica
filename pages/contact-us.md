@@ -5,29 +5,16 @@ permalink: /contact-us/
 agency_name: VICA
 locations:
   - address:
-      - 30 Pasir Panjang Rd
+      - 30 Pasir Panjang Road
       - Singapore 117440
       - ""
-    operating_hours:
-      - days: Mon - Fri
-        time: 10am - 5pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Moments of Life
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: Moments of Life
 ---
