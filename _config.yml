@@ -52,7 +52,7 @@ plugins:
 staging: https://govtech-mol-vica-staging.netlify.app
 prod: https://govtech-mol-vica-prod.netlify.app
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
