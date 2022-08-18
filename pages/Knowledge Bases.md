@@ -3,7 +3,7 @@ title: Knowledge Bases
 permalink: /kbs
 description: ""
 ---
-<img src="/images/Icons%20of%20domain%20knowledge/business.png" alt="Business regulations and administrations" align="left" style="height:40px; width:40px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/business.png" alt="Business regulations and administrations" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
 <h4> Business regulations and administrations </h4>
 <ul style="margin-left:85px">
 	<li>Corppass</li>
