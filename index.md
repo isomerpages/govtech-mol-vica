@@ -21,6 +21,7 @@ sections:
       description: It's here to learn from various agency chatbots so that we can help
         you with a range of common matters and resources in just one place.
       image: /images/supergirl-header-element.png
+      alt: AlphabotSG
   - infopic:
       title: It gets the best answer from the most relevant agency
       description: AlphabotSG always asks its sister chatbots to find out which is
