@@ -40,7 +40,7 @@ sections:
       title: You’re invited to help others access government services more intuitively
         on messaging
       subtitle: Every effort counts
-      description: Alphabot may not always give you an answer you're expecting, so
+      description: AlphabotSG may not always give you an answer you're expecting, so
         we'd like your help to tell us where you think is acceptable or not.
         Thank you for your generosity in helping Singapore to build a smarter
         nation and be able to assist citizens who prefer getting help beyond a
