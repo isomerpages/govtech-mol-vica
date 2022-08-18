@@ -2,7 +2,7 @@
 layout: homepage
 title: AlphabotSG
 description: The Singapore Government chatbot that's always here for your questions
-image: /images/isomer-logo.svg
+image: /images/vica_logo.png
 permalink: /
 notification: ""
 sections:
@@ -46,3 +46,4 @@ sections:
         nation and be able to assist citizens who prefer getting help beyond a
         website.
 ---
+
