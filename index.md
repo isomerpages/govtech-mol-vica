@@ -47,6 +47,4 @@ sections:
         Thank you for your generosity in helping Singapore to build a smarter
         nation and be able to assist citizens who prefer getting help beyond a
         website.
-  - resources:
-      title: Learn more about AlphabotSG
 ---
