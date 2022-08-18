@@ -5,7 +5,7 @@ description: The Singapore Government chatbot that's always here for your questi
 image: /images/vica_logo.png
 permalink: /
 notification: AlphabotSG is currently in alpha mode. Certain level of
-  intelligence are still undergoing improvement.
+  intelligence is undergoing continuous improvement.
 sections:
   - hero:
       title: AlphabotSG
