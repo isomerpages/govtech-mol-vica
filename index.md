@@ -25,6 +25,7 @@ sections:
       description: AlphabotSG always asks its sister chatbots to find out which is
         more confident to answer you relevantly, so you don't need to search
         multiple websites to get one thing done.
+      image: /images/supergirl-header-element.png
   - infopic:
       title: It contextualises the chat between you and itself
       description: AlphabotSG remembers the previous chat messages between you and
@@ -46,4 +47,3 @@ sections:
         nation and be able to assist citizens who prefer getting help beyond a
         website.
 ---
-
