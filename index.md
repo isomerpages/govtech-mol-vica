@@ -12,9 +12,9 @@ sections:
         questions
       background: /images/hero-01.jpg
       key_highlights:
-        - title: Discover the agencies it learns from
+        - title: ""
           description: ""
-          url: /knowledge-bases
+          url: ""
   - infopic:
       title: Meet AlphabotSG
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
