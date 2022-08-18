@@ -9,9 +9,9 @@ notification: AlphabotSG is currently in alpha mode. Certain level of
 sections:
   - hero:
       title: AlphabotSG
-      subtitle: The Singapore Government alpha chatbot that's always here for your
-        questions
-      background: /images/hero-01.jpg
+      subtitle: The chatbot that's always here for you to get guidance and services in
+        Singapore
+      background: /images/hero-02.jpg
       key_highlights:
         - title: Knowledge Bases
           description: Discover the agencies it knows
