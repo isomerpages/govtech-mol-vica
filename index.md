@@ -15,6 +15,9 @@ sections:
         - title: Knowledge Bases
           description: Discover the agencies it knows
           url: /kbs
+        - title: Capabilities
+          description: See what it can do
+          url: /capabilities
   - infopic:
       title: Meet AlphabotSG
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
