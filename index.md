@@ -4,7 +4,8 @@ title: AlphabotSG by VICA
 description: The Singapore Government chatbot that's always here for your questions
 image: /images/vica_logo.png
 permalink: /
-notification: ""
+notification: AlphabotSG is currently in alpha mode. Certain level of
+  intelligence are still undergoing improvement.
 sections:
   - hero:
       title: AlphabotSG
@@ -31,5 +32,9 @@ sections:
       title: You’re invited to help others access government services more intuitively
         on messaging
       subtitle: Try it out. Every effort counts
-      description: We're striving for AlphabotSG to give accurate replies, so try saying something to it and rate where you think is acceptable or not. Thank you for your generosity in helping Singapore to build a smarter nation and be able to assist citizens who prefer getting help beyond a website.
+      description: We're striving for AlphabotSG to give accurate replies, so try
+        saying something to it and rate where you think is acceptable or not.
+        Thank you for your generosity in helping Singapore to build a smarter
+        nation and be able to assist citizens who prefer getting help beyond a
+        website.
 ---
