@@ -13,7 +13,7 @@ description: ""
 </ul>
 
 
-<img src="/images/Icons%20of%20domain%20knowledge/water.png" alt="Business regulations and administrations" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/communities.png" alt="Business regulations and administrations" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
 <h4> Communities and welfare</h4>
 <ul style="margin-left:85px">
 	<li>People's Association (PA)</li>
