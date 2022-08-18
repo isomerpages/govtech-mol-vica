@@ -15,17 +15,17 @@ sections:
         - title: Discover the agencies it learns from
           description: ""
           url: /knowledge-bases
-  - infobar:
+  - infopic:
       title: Meet AlphabotSG
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
       description: It's here to learn from various agency chatbots so that we can help
-        you with a range of common matters and resources in one place.
+        you with a range of common matters and resources in just one place.
+      image: /images/supergirl-header-element.png
   - infopic:
       title: It gets the best answer from the most relevant agency
       description: AlphabotSG always asks its sister chatbots to find out which is
         more confident to answer you relevantly, so you don't need to search
         multiple websites to get one thing done.
-      image: /images/supergirl-header-element.png
   - infopic:
       title: It contextualises the chat between you and itself
       description: AlphabotSG remembers the previous chat messages between you and
