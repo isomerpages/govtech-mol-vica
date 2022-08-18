@@ -2,12 +2,38 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+Thank you for visiting the AlphabotSG website (the “Site”). By accessing and using any part of this Site, you unconditionally accept to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
-#### **General Legal Information**
+#### **General**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit the Site.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+#### **Proprietary Rights**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+2. This Site is the official AlphabotSG website. It is owned and operated by the Virtual Intelligent Chat Assistant ("VICA") team from Government Technology Agency (“GovTech”).
+
+3. The materials located on this Site including the information and any software programs (the “Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by VICA.
+
+
+#### **Restrictions on Use of Contents**
+4. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of VICA.
+
+
+#### **Disclaimer of Warranties and Liability**
+
+5. The Contents of this Site are provided on an “as is” basis without warranties of any kind. While VICA has made every reasonable effort to ensure that the information contained in this website has been obtained from reliable sources, VICA shall not be responsible for any errors or omissions, or for the results obtained from the use of such information.
+
+6. VICA shall also not be liable for any damage or loss of any kind howsoever caused as a result (direct or indirect) of the use of the Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Site.
+
+#### **Right of Access**
+
+7. VICA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
+
+8. You unconditionally agree that you will not:
+* use any robot, spider, other automatic device, or manual process to monitor or copy any pages within this website or the Contents without VICA’s prior written permission;
+* use any device, software or routine to interfere or attempt to interfere with the proper working of this Site; or
+* take any action that imposes an unreasonable or disproportionately large load on VICA’s servers.
+
+#### **Governing Law**
+
+9. These Terms of Use shall be governed and construed in accordance with the laws of the Republic of Singapore.
