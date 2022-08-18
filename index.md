@@ -10,7 +10,7 @@ sections:
       title: AlphabotSG
       subtitle: The Singapore Government alpha chatbot that's always here for your
         questions
-      background: /images/hero-02.jpg
+      background: /images/hero-01.jpg
       key_highlights:
         - title: Discover the agencies it learns from
           description: ""
