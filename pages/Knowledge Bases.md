@@ -76,6 +76,3 @@ description: ""
 	<li>Energy Market Authority (EMA)</li>
 	<li>Public Utilities Board (PUB)</li>
 </ul>
-
-
-Singapore Land Authority
