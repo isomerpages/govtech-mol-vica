@@ -24,7 +24,7 @@ sections:
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
       description: It's here to learn from various agency chatbots so that we can help
         you with a range of common matters and resources in just one place.
-      image: /images/supergirl-header-element.png
+      image: /images/pzYvBP3.gif
       alt: AlphabotSG
       button: Find out more
       url: /kbs
