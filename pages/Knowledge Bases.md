@@ -16,7 +16,7 @@ description: ""
 </ul>
 
 
-<img src="/images/Icons%20of%20domain%20knowledge/communities.png" alt="Communities & Welfare" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/communities.png" alt="Communities & Welfare" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Communities & Welfare</h4>
 <ul style="margin-left:85px">
 	<li>People's Association (PA)</li>
@@ -25,7 +25,7 @@ description: ""
 </ul>
 
 
-<img src="/images/Icons%20of%20domain%20knowledge/education.png" alt="Education" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/education.png" alt="Education" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Education </h4>
 <ul style="margin-left:85px">
 	<li>Institute of Technical Education (ITE)</li>
@@ -35,14 +35,14 @@ description: ""
 	<li>Singapore Polytechnic (SP)</li>
 </ul>
 
-<img src="/images/Icons%20of%20domain%20knowledge/finance.png" alt="Finance, Taxes & Accounting" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/finance.png" alt="Finance, Taxes & Accounting" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Finance, Taxes & Accounting </h4>
 <ul style="margin-left:85px">
 	<li>Accounting and Corporate Regulatory Authority (ACRA)</li>
 	<li>Inland Revenue Authority of Singapore (IRAS)</li>
 </ul>
 
-<img src="/images/Icons%20of%20domain%20knowledge/policies.png" alt="Government Policies, Diplomacy & Elections" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/policies.png" alt="Government Policies, Diplomacy & Elections" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Government Policies, Diplomacy & Elections</h4>
 <ul style="margin-left:85px">
 	<li>Elections Department Singapore (ELD)</li>
@@ -51,7 +51,7 @@ description: ""
 	<li>Ministry of Foreign Affairs (MFA)</li>
 </ul>
 
-<img src="/images/Icons%20of%20domain%20knowledge/prison.png" alt="Rehabilitation & Security" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/prison.png" alt="Rehabilitation & Security" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Rehabilitation & Security</h4>
 <ul style="margin-left:85px">
 	<li>Corrupt Practices Investigation Bureau (CPIB)</li>
@@ -62,7 +62,7 @@ description: ""
 </ul>
 
 
-<img src="/images/Icons%20of%20domain%20knowledge/research.png" alt="Research" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/research.png" alt="Research" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Research</h4>
 <ul style="margin-left:85px">
 	<li>Manpower Research and Statistics Department (MRSD)</li>
@@ -70,7 +70,7 @@ description: ""
 </ul>
 
 
-<img src="/images/Icons%20of%20domain%20knowledge/water.png" alt="Utilities" align="left" style="height:40px; width:40px;margin-top:28px;margin-right:25px;margin-bottom:50px"/>
+<img src="/images/Icons%20of%20domain%20knowledge/water.png" alt="Utilities" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Utilities</h4>
 <ul style="margin-left:85px">
 	<li>Energy Market Authority (EMA)</li>
