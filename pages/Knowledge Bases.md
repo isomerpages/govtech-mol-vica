@@ -9,7 +9,10 @@ description: ""
 	<li>Corppass</li>
 	<li>GoBusiness</li>
 	<li>Enterprise Singapore (ESG)</li>
+	<li>Gambling Regulatory Authority (GRA)</li>
+	<li>Maritime and Port Authority of Singapore (MPA)</li>
 	<li>Ministry of Trade and Industry (MTI)</li>
+	<li>Singapore Land Authority (SLA)</li>
 </ul>
 
 
@@ -55,6 +58,7 @@ description: ""
 	<li>Central Narcotics Bureau (CNB)</li>
 	<li>Ministry of Home Affairs (MHA)</li>
 	<li>Singapore Prison Service (SPS)</li>
+	<li>Yellow Ribbon Singapore (YRSG)</li>
 </ul>
 
 
@@ -71,3 +75,6 @@ description: ""
 	<li>Energy Market Authority (EMA)</li>
 	<li>Public Utilities Board (PUB)</li>
 </ul>
+
+
+Singapore Land Authority
