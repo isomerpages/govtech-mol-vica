@@ -66,6 +66,7 @@ description: ""
 <h4> Research statistics</h4>
 <ul style="margin-left:85px">
 	<li>Manpower Research and Statistics Department (MRSD)</li>
+	<li>Singapore Department of Statistics</li>
 </ul>
 
 
