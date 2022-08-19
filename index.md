@@ -11,7 +11,7 @@ sections:
       title: AlphabotSG
       subtitle: The chatbot that's always here for you to get guidance and services in
         Singapore
-      background: /images/hero-02.jpg
+      background: /images/hero-03.jpg
       key_highlights:
         - title: Knowledge Bases
           description: Discover the agencies it knows
