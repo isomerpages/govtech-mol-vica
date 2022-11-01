@@ -11,6 +11,7 @@ description: ""
 	<li>Enterprise Singapore (ESG)</li>
 	<li>Gambling Regulatory Authority (GRA)</li>
 	<li>Maritime and Port Authority of Singapore (MPA)</li>
+	<li>Ministry of Manpower (MOM)</li>
 	<li>Ministry of Trade and Industry (MTI)</li>
 	<li>Singapore Land Authority (SLA)</li>
 </ul>
@@ -19,6 +20,7 @@ description: ""
 <img src="/images/Icons%20of%20domain%20knowledge/communities.png" alt="Communities & Welfare" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
 <h4> Communities & Welfare</h4>
 <ul style="margin-left:85px">
+	<li>Health Promotion Board (HPB)</li>
 	<li>Housing & Development Board (HDB)</li>
 	<li>Ministry of Culture, Community and Youth (MCCY)</li>
 	<li>National Council of Social Service (NCSS)</li>
@@ -42,6 +44,7 @@ description: ""
 <h4> Finance, Taxes & Accounting </h4>
 <ul style="margin-left:85px">
 	<li>Accounting and Corporate Regulatory Authority (ACRA)</li>
+	<li>Accountant-General's Department (AGD)</li>
 	<li>Inland Revenue Authority of Singapore (IRAS)</li>
 </ul>
 
@@ -49,6 +52,7 @@ description: ""
 <h4> Government Policies, Diplomacy & Elections</h4>
 <ul style="margin-left:85px">
 	<li>Elections Department Singapore (ELD)</li>
+	<li>Government Technology Agency (GovTech)</li>
 	<li>Infocomm Media Development Authority (IMDA)</li>
 	<li>Ministry of Communications and Information (MCI)</li>
 	<li>Ministry of Foreign Affairs (MFA)</li>
