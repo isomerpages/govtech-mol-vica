@@ -35,6 +35,7 @@ description: ""
 	<li>Institute of Technical Education (ITE)</li>
 	<li>Ministry of Education (MOE)</li>
 	<li>Nanyang Polytechnic (NYP)</li>
+	<li>Ngee Ann Polytechnic (NP)</li>
 	<li>Republic Polytechnic (RP)</li>
 	<li>Singapore Polytechnic (SP)</li>
 	<li>Singapore Science Centre</li>
