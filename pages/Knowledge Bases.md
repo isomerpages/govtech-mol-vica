@@ -37,8 +37,8 @@ description: ""
 	<li>Nanyang Polytechnic (NYP)</li>
 	<li>Ngee Ann Polytechnic (NP)</li>
 	<li>Republic Polytechnic (RP)</li>
+	<li>Science Centre Board (SCB)</li>
 	<li>Singapore Polytechnic (SP)</li>
-	<li>Singapore Science Centre</li>
 </ul>
 
 <img src="/images/Icons%20of%20domain%20knowledge/finance.png" alt="Finance, Taxes & Accounting" align="left" style="height:40px; width:40px;margin-top:26px;margin-right:25px;margin-bottom:50px"/>
