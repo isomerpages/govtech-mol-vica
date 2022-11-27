@@ -21,14 +21,8 @@ sections:
       button: Find out more
       url: /kbs
   - infopic:
-      title: You’re invited to help others access government services more intuitively
-        on messaging
-      subtitle: Try it out. Every effort counts
-      description: We're striving for AlphabotSG to give accurate replies, so try
-        saying something to it and rate where you think is acceptable or not.
-        Thank you for your generosity in helping Singapore to build a smarter
-        nation and be able to assist citizens who prefer getting help beyond a
-        website.
+      title: Try it out. Every message counts
+      description: You’re invited to help others access government services more intuitively on messaging. Each message and rating that you send is an opportunity for us to make AlphabotSG better. Thank you for your generosity in helping Singapore to build a smarter nation and be able to assist citizens who prefer getting help beyond a website.
       image: /images/banner_call_to_action.jpg
       alt: Try chatting with AlphabotSG
 ---
