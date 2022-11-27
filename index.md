@@ -14,13 +14,13 @@ sections:
         - title: Knowledge Bases
           description: Discover the agencies it knows
           url: /kbs
-  - infopic:
+  - infobar:
       title: Meet AlphabotSG, your virtual assistant to find government services and information easily
       subtitle: Engineered by VICA, GovTech’s Conversation AI platform
       description: AlphabotSG is a super chatbot that learns from various agency chatbots, so that we can help you with a range of common matters and resources in just one place. When you ask a question, it finds the best answer from the most relevant agency. If there isn't a confident answer by any agency, it gives you the best possible response using the context of the interaction and a new large language model.
       button: Find out more
       url: /kbs
-  - infobar:
+  - infopic:
       title: You’re invited to help others access government services more intuitively
         on messaging
       subtitle: Try it out. Every effort counts
