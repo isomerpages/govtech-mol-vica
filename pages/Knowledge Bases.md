@@ -51,5 +51,6 @@ We are always committed to improve the contextual understanding of AlphabotSG an
 	<li>Singapore Land Authority (SLA)</li>
 	<li>Singapore Polytechnic (SP)</li>
 	<li>Singapore Prison Service (SPS)</li>
+	<li>Urban Redevelopment Authority</li>
 	<li>Yellow Ribbon Singapore (YRSG)</li>
 </ol>
