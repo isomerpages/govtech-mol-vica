@@ -19,6 +19,7 @@ We are always committed to improve the contextual understanding of AlphabotSG an
 	<li>Central Narcotics Bureau (CNB)</li>
 	<li>Corppass</li>
 	<li>Corrupt Practices Investigation Bureau (CPIB)</li>
+	<li>Council for Estate Agencies (CEA)</li>
 	<li>Elections Department Singapore (ELD)</li>
 	<li>Energy Market Authority (EMA)</li>
 	<li>Enterprise Singapore (ESG)</li>
