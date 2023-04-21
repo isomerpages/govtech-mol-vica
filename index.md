@@ -34,5 +34,4 @@ sections:
         assist citizens who prefer getting help beyond a website.
       image: /images/banner_call_to_action.jpg
       alt: Try chatting with AlphabotSG
-notification: All public chatbots are temporarily called back from AlphabotSG for maintenance and will return soon. 
 ---
