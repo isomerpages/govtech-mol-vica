@@ -9,10 +9,6 @@ sections:
       title: AlphabotSG
       subtitle: Chat to access Singapore government services and information easily
       background: /images/hero-05.jpg
-      key_highlights:
-        - title: Knowledge Bases
-          description: Discover the agencies it knows
-          url: /kbs
   - infobar:
       title: Meet AlphabotSG, your virtual assistant to find government services and
         information easily
@@ -23,7 +19,6 @@ sections:
         answer from the most relevant agency. If there isn't a confident answer
         by any agency, it gives you the best possible response using the context
         of the interaction and a new large language model.
-      button: Find out more
       url: /kbs
   - infopic:
       title: Try it out. Every message counts
