@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://govtech-mol-vica-staging.netlify.app
-prod: https://govtech-mol-vica-prod.netlify.app
+staging: https://staging.d3ukzrj1sl71se.amplifyapp.com/
+prod: https://master.d3ukzrj1sl71se.amplifyapp.com/
 shareicon: /images/hero-05.jpg
 is_government: true
 facebook-pixel: ""
